@@ -35,3 +35,5 @@ To run the tests, you can use the following command:
 ```bash
 make test
 ```
+### Get your Published API Documentation here. 
+https://documenter.getpostman.com/view/21219256/2sAXxP8XYU
